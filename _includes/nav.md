@@ -10,7 +10,7 @@
 
 ***
 
-* [Period 1]({{ "/periods/1" | relative_url }})
+* [AP CS A]({{ "/periods/2" | relative_url }})
 * [Period 5]({{ "/periods/5" | relative_url }})
 
 ***
