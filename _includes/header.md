@@ -1,4 +1,4 @@
-# [GHS50 AP]({{ "/" | relative_url }})
+# [GHS CS50 AP]({{ "/" | relative_url }})
 
 Harvard University\\
 Greenbrier High School\\
