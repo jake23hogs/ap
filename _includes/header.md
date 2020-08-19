@@ -1,5 +1,5 @@
-# [GHS CS50 AP]({{ "/" | relative_url }})
+# [PHS CS50 AP]({{ "/" | relative_url }})
 
 Harvard University\\
-Greenbrier High School\\
-2019–2020
+Paragould High School\\
+2020–2021
