@@ -12,6 +12,7 @@
 
 * [AP CS A]({{ "/periods/6" | relative_url }})
 * [CS 1&2]({{ "/periods/2" | relative_url }})
+* [CS 1&2]({{ "/periods/5" | relative_url }})
 
 ***
 
