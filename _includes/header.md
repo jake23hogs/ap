@@ -2,4 +2,4 @@
 
 Harvard University\\
 Paragould High School\\
-2024–2025
+2021–2022
